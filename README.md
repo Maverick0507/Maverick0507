@@ -4,9 +4,9 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Dwivedi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maverick0507&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Dwivedi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dwivediayushK05" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dwivediayushK05" target="blank"><img src="https://img.shields.io/twitter/follow/ayushdwivedi?logo=twitter&style=for-the-badge" alt="ayushdwivedi" /></a> </p>
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dwivediayushK05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayushkdwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ayush_kt05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
+<a href="https://twitter.com/dwivediayushK05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushdwivedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayushkdwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushdwivedi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ayush_kt05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushdwivedi" height="30" width="40" /></a>
 </p>
 <br>
 <div id="badges">
@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nextjs,nodejs,express,mongodb,html,css,tailwind,scss,cpp,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,wordpress,react,redux,nextjs,nodejs,svelte,express,mongodb,html,css,tailwind,scss,cpp,firebase,git,github,numpy,pandas,scikit-learn,matplotlib,power BI"/>
   </a>
 </p>
 </div>
