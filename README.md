@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,wordpress,react,redux,nextjs,nodejs,svelte,express,mongodb,material ui,html,css,tailwind,scss,cpp,java,python,firebase,git,github,numpy,pandas,scikit-learn,matplotlib,power BI"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,wordpress,react,redux,nextjs,nodejs,svelte,express,mongodb,html,css,tailwind,scss,cpp,java,python,firebase,git,github,numpy,pandas,scikit-learn,matplotlib,power BI"/>
   </a>
 </p>
 </div>
