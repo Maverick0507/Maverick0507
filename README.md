@@ -43,7 +43,7 @@
     <div style="margin-right: 10px;">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick0507&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
          <img src="https://github-readme-stats.vercel.app/api?username=Maverick0507&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maverick0507&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Maverick0507&theme=tokyonight" alt="GitHub Streak" /></a>
     </div>
 </div>
 <br>
