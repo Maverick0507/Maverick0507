@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushdwivedi0507@gmail.com**
 
-- 📫  <a href="YOUR_PORTFOLIO_URL" target="_blank"> My Portfolio</a>
+- 📫  <a href="YOUR_PORTFOLIO_URL" target="_blank">My Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
