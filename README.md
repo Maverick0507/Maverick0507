@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushdwivedi0507@gmail.com**
 
-- 📫  <a href="[https://my-portfolio-xi-kohl-18.vercel.app/](https://portfolio-ayush-virid.vercel.app/)" target="_blank">My Portfolio</a>
+- 📫  <a href="https://portfolio-ayush-virid.vercel.app/" target="_blank">My Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
